@@ -67,3 +67,30 @@ code {
   min-height: 23rem;
 }
 
+.feed-list-item .card{
+  border: none
+}
+
+.feed-list-item .left-section {
+  background-color: #E0E2E3;
+}
+
+.feed-list-item .list-item-posted-section {
+  font-size: 11px;
+  color: gray;
+}
+
+.feed-list-item .list-item-footer-section {
+  font-size: 13px;
+  color: gray;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.feed-list-item .list-item-footer-section div{
+  padding: 5px;
+}
+
+.right-side-card-item .card-header{
+  background-color: red;
+}
